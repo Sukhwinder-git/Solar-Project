@@ -1,0 +1,69 @@
+
+
+header{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.33),rgba(0, 0, 0, 0.33)),url(images/giorgio-trovato-mIlvCv21W1s-unsplash.jpg);
+	background-position: center;
+	background-size: cover;
+	height:100vh;
+
+}
+.icon-big{
+	font-size: 30px;
+	color: #e67e22;
+}
+
+
+.our project,
+.pro{
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	width: 25%;
+	float: left;
+	padding-top:5%;
+
+}
+
+.meal-photo{
+	width:100%;
+	margin: 0;
+	overflow: hidden;
+	background-color: #000;
+	
+}
+.meal-photo,
+.pics{
+	width:100%;
+	height:auto;
+	transform: scale(1.15);
+	transition: transform 0.5s;
+	opacity: 0.7;
+	
+}
+.meal-photo,
+.pics:hover{
+     opacity: 1;
+	transform: scale(1.3);
+}
+footer{
+	background-color: #333;
+	margin-top: 40%;
+	padding:50px;
+color: #fff;
+
+}
+.service{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url(images/ricardo-gomez-angel-MagdWoazARo-unsplash.jpg);
+	background-position: center;
+	background-size: cover;
+	height:70vh;
+	
+	
+}
+.contact{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.33),rgba(0, 0, 0, 0.33)), url(images/science-in-hd-ZNS6rizp9RU-unsplash.jpg);
+	background-position: center;
+	background-size: cover;
+	height:70vh;
+	
+}
